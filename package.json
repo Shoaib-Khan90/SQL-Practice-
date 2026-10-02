@@ -1,0 +1,23 @@
+{
+  "name": "sql-practice-",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Shoaib-Khan90/SQL-Practice-#readme",
+  "bugs": {
+    "url": "https://github.com/Shoaib-Khan90/SQL-Practice-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoaib-Khan90/SQL-Practice-.git"
+  },
+  "license": "ISC",
+  "author": "Shoaib Khan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.6.0"
+  }
+}
